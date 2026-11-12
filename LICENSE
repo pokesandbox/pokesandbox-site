@@ -1,0 +1,31 @@
+Copyright (c) 2026 Nicholas Bely. All rights reserved.
+
+This repository is public so that GitHub Pages can serve it. Being public does
+not place it in the public domain or grant any open-source license.
+
+No license is granted to use, copy, modify, distribute, or create derivative
+works of the contents of this repository except with the copyright holder's
+written permission. This includes, without limitation:
+
+  - the artwork and images in assets/, including the hero banners;
+  - the design tokens and visual theme in assets/tokens.css and site.css,
+    including the colour palette, typography choices, and spacing scale;
+  - the page markup, text, and layout;
+  - the PokeSandbox name, badge, and overall visual identity.
+
+The only permissions given are those GitHub's Terms of Service require for
+public repositories: viewing the repository and forking it within GitHub. Those
+permissions do not extend to using any of the contents elsewhere.
+
+Third-party intellectual property. Pokémon and all related names, characters,
+and data are trademarks and © of their respective owners. PokeSandbox is a free,
+non-commercial fan project, not affiliated with, endorsed, sponsored, or
+approved by Nintendo, Game Freak, Creatures Inc., or The Pokémon Company. No
+rights in their intellectual property are claimed or granted.
+
+Third-party fonts. Fonts named in assets/tokens.css, such as Bricolage
+Grotesque and Inter, are not included in this repository and remain under their
+own licenses.
+
+For permission requests, contact the project through its Discord server:
+https://discord.gg/5BSMak3m9V
